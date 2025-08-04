@@ -30,6 +30,10 @@ O Azure Language Studio fornece ferramentas para análise de linguagem natural, 
 - Tradução automática de idiomas;
 - Classificação de tópicos e detecção de linguagem.
 
+## Dificuldades Técnicas
+
+- Falha no login do Azure impossibilitou testes práticos.
+- Apesar disso, o conteúdo do curso foi compreendido e documentado.
 ---
 
 ## 💡 Aprendizados
